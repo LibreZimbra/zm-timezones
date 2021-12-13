@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 Maintainer: Enrico Weigelt, metux IT consult <info@metux.net>
 Uploaders: Enrico Weigelt, metux IT consult <info@metux.net>
 
-Package: zimbra-timezones
+Package: zimbra-timezone-data
 Section: mail
 Priority: optional
 Architecture: any
